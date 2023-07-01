@@ -1,0 +1,1 @@
+# bargraph_exited_percentage
